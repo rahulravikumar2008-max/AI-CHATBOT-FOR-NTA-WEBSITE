@@ -1,6 +1,7 @@
 AI CHATBOT FOR NTA WEBSITE
 WORKING LINK
 https://chatbot.getmindpal.com/nta-official-ai-support-assistant-3m5
+
 The AI-Powered NTA Support Chatbot is an intelligent virtual assistant developed to help students, parents, and educators access accurate information related to National Testing Agency (NTA) examinations. Students often face difficulties finding important details such as eligibility criteria, registration procedures, examination dates, admit card downloads, results, and official notifications because the information is spread across multiple pages on the NTA website.
 To solve this problem, an AI chatbot was developed using the MindPal platform. The chatbot provides instant responses to user queries through a simple conversational interface, reducing the time required to search for information manually. It acts as a 24/7 digital support system that guides users with examination-related information and frequently asked questions.
 The chatbot improves user experience by delivering quick, accurate, and structured responses while reducing the dependency on customer support services. It also helps users navigate official NTA resources efficiently by directing them to relevant portals and notifications when needed.
